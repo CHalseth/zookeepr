@@ -103,20 +103,11 @@
     {
       "name": "Larry",
       "species": "Lemur",
-      "diet": "omnivore",
+      "diet": "herbivore",
       "personalityTraits": [
         "hungry"
       ],
       "id": "10"
-    },
-    {
-      "name": "Lester",
-      "species": "Lion",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "11"
     }
   ]
 }
